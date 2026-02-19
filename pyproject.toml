@@ -1,0 +1,8 @@
+[project]
+name = "jane-street-notification"
+version = "0.1.0"
+description = "Notification bot for Jane Street HuggingFace puzzle releases"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.31.0",
+]

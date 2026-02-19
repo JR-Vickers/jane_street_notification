@@ -1,0 +1,18 @@
+{
+  "space_ids": [
+    "jane-street/droppedaneuralnet",
+    "jane-street/puzzle"
+  ],
+  "model_ids": [
+    "jane-street/2025-03-10",
+    "jane-street/dormant-model-1",
+    "jane-street/dormant-model-2",
+    "jane-street/dormant-model-3",
+    "jane-street/dormant-model-warmup"
+  ],
+  "watched_space": {
+    "sha": "427861a2416990c49198e72579340efaa5888c97",
+    "lastModified": "2026-02-18T23:21:00.000Z"
+  },
+  "checked_at": "2026-02-19T09:54:15.323905+00:00"
+}
